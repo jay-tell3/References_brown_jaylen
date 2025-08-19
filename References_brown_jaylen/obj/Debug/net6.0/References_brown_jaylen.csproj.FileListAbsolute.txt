@@ -1,0 +1,14 @@
+C:\Users\JAYLENBROWN\source\repos\References_brown_jaylen\References_brown_jaylen\bin\Debug\net6.0\References_brown_jaylen.exe
+C:\Users\JAYLENBROWN\source\repos\References_brown_jaylen\References_brown_jaylen\bin\Debug\net6.0\References_brown_jaylen.deps.json
+C:\Users\JAYLENBROWN\source\repos\References_brown_jaylen\References_brown_jaylen\bin\Debug\net6.0\References_brown_jaylen.runtimeconfig.json
+C:\Users\JAYLENBROWN\source\repos\References_brown_jaylen\References_brown_jaylen\bin\Debug\net6.0\References_brown_jaylen.dll
+C:\Users\JAYLENBROWN\source\repos\References_brown_jaylen\References_brown_jaylen\bin\Debug\net6.0\References_brown_jaylen.pdb
+C:\Users\JAYLENBROWN\source\repos\References_brown_jaylen\References_brown_jaylen\obj\Debug\net6.0\References_brown_jaylen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JAYLENBROWN\source\repos\References_brown_jaylen\References_brown_jaylen\obj\Debug\net6.0\References_brown_jaylen.AssemblyInfoInputs.cache
+C:\Users\JAYLENBROWN\source\repos\References_brown_jaylen\References_brown_jaylen\obj\Debug\net6.0\References_brown_jaylen.AssemblyInfo.cs
+C:\Users\JAYLENBROWN\source\repos\References_brown_jaylen\References_brown_jaylen\obj\Debug\net6.0\References_brown_jaylen.csproj.CoreCompileInputs.cache
+C:\Users\JAYLENBROWN\source\repos\References_brown_jaylen\References_brown_jaylen\obj\Debug\net6.0\References_brown_jaylen.dll
+C:\Users\JAYLENBROWN\source\repos\References_brown_jaylen\References_brown_jaylen\obj\Debug\net6.0\refint\References_brown_jaylen.dll
+C:\Users\JAYLENBROWN\source\repos\References_brown_jaylen\References_brown_jaylen\obj\Debug\net6.0\References_brown_jaylen.pdb
+C:\Users\JAYLENBROWN\source\repos\References_brown_jaylen\References_brown_jaylen\obj\Debug\net6.0\References_brown_jaylen.genruntimeconfig.cache
+C:\Users\JAYLENBROWN\source\repos\References_brown_jaylen\References_brown_jaylen\obj\Debug\net6.0\ref\References_brown_jaylen.dll

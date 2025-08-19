@@ -36,5 +36,15 @@ namespace References_brown_jaylen
         {
             Console.WriteLine($"The trucks speed is {Speed} on {Wheels} wheels, with a licensen plate number of {LicensePlate}");
         }
+
+        public void IncreaseSpeed()
+        {
+            Speed += 5;
+        }
+        public void DecreaseSpeed()
+        {
+            Speed -= 5;
+        }
+
     }
 }
